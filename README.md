@@ -1,2 +1,2 @@
 # bug-coder
-小a的写bug日常
+bug制造者
